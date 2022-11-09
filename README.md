@@ -6,3 +6,4 @@ Requirements
 - feh(background)
 - picom(terminal trasparenci...)
 - kitty(new termila)
+- bat
