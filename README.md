@@ -7,3 +7,4 @@ Requirements
 - picom(terminal trasparenci...)
 - kitty(new termila)
 - bat
+- lsd
